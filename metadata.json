@@ -1,0 +1,7 @@
+{
+  "name": "BharatPost AI Sorter",
+  "description": "An intelligent postal sorting system designed for Indian addresses, featuring automated PIN code extraction and handwritten text recognition using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
